@@ -16,7 +16,6 @@ _Chargée de Production web_ - *Vacances.com*
 * Gestion des campagnes publicitaires
 * Exports statistiques
 * Conception emailing et newsletter
-* 
 
 ##Formation
 
@@ -26,9 +25,9 @@ _Chargée de Production web_ - *Vacances.com*
 * _Baccalauréat Economique et Social_ - *Lycée Tristan Corbière, Morlaix*
 
 ##Simplonline -> ???
-Reconversion vers le développement web souhaitée depuis plus de 10 ans (en fait depuis ma découverte d'Internet... Oui, je suis "veille" !!)
+Reconversion vers le développement web souhaitée depuis plus de 10 ans.
 Par manque de temps, de financement et d'offre de formation, je n'ai pas eu l'opportunité de tester cette voie. 
-Simplonline m'a permis de mettre un premier pied dans le monde du dev. Après plusieurs mois passés en apprentissage, mon souhait de départ est confirmé.
-J'enchaine donc par une seconde formation plus poussée (analyste-programmeur) sur 2 ans avec le CNAM.
+Simplonline m'a permis de mettre un pied dans le monde du dev. Après plusieurs mois passés en apprentissage, ma volonté de reconversion est confirmée.
+J'enchaine donc par une seconde formation "analyste-programmeur" avec le CNAM, toujours en parallèle de mon emploi de salariée.
 Etant entourée de développeurs web en freelance, j'ai un réseau déjà bien ancré dans le domaine, ce qui me motive beaucoup à progresser et à apprendre.
-Mon but (rêve ?) est d'arrêter mon travail actuel de salariée et de devenir indépendante en travaillant en freelance sur des missions de développement web.
+Mon but à terme est d'arrêter mon travail actuel en salariat et de devenir indépendante en travaillant sur des missions de développement web.
